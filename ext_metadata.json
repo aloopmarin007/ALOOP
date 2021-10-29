@@ -1,0 +1,20 @@
+{
+       "info": {
+        "url_png_icon_64x64": "https://adaloop.org/Logo.png",
+        "location": "Montreal, Canada",
+        "social": {
+            "twitter_handle": "AdaLoopPool",
+            "telegram_handle": "AdaLoop"
+        },
+        "about": {
+            "me": "Earn Rewards and Support AbleGamers | IT pro working in the industry for over 20 years across various technologies",
+            "server": "Node Canada, Relays US and Germany | HW config CPU:6cores|RAM:16G|SSD:400G"
+    },
+    "my-pool-ids": {
+        "0": "297b5acd8b90df8a1bfd98aa1a61f323b87fead4b8a2b55f2fb83ce6"
+    },
+    "when-satured-then-recommend": {
+        "0": "Small Pools - Support Decentralization"
+    }
+}
+}
